@@ -1,0 +1,82 @@
+======================================================================
+KẾT QUẢ NHẬN DẠNG NGÔN NGỮ KÝ HIỆU
+Phương pháp: Hu's Moments + LOOCV
+======================================================================
+
+Số lượng ký hiệu: 3
+Các ký hiệu: chuc, chuo, chuy
+Tổng số mẫu: 60
+Số mẫu mỗi ký hiệu: 20
+
+ĐỘ CHÍNH XÁC: 80.00%
+
+CHI TIẾT KẾT QUẢ:
+----------------------------------------------------------------------
+[✓] chuc/1.jpg: Thực tế=chuc, Dự đoán=chuc
+[✓] chuc/10.jpg: Thực tế=chuc, Dự đoán=chuc
+[✓] chuc/11.jpg: Thực tế=chuc, Dự đoán=chuc
+[✗] chuc/12.jpg: Thực tế=chuc, Dự đoán=chuy
+[✓] chuc/13.jpg: Thực tế=chuc, Dự đoán=chuc
+[✓] chuc/14.jpg: Thực tế=chuc, Dự đoán=chuc
+[✓] chuc/15.jpg: Thực tế=chuc, Dự đoán=chuc
+[✓] chuc/16.jpg: Thực tế=chuc, Dự đoán=chuc
+[✓] chuc/17.jpg: Thực tế=chuc, Dự đoán=chuc
+[✓] chuc/18.jpg: Thực tế=chuc, Dự đoán=chuc
+[✓] chuc/19.jpg: Thực tế=chuc, Dự đoán=chuc
+[✓] chuc/2.jpg: Thực tế=chuc, Dự đoán=chuc
+[✓] chuc/20.jpg: Thực tế=chuc, Dự đoán=chuc
+[✓] chuc/3.jpg: Thực tế=chuc, Dự đoán=chuc
+[✗] chuc/4.jpg: Thực tế=chuc, Dự đoán=chuo
+[✗] chuc/5.jpg: Thực tế=chuc, Dự đoán=chuo
+[✓] chuc/6.jpg: Thực tế=chuc, Dự đoán=chuc
+[✗] chuc/7.jpg: Thực tế=chuc, Dự đoán=chuo
+[✗] chuc/8.jpg: Thực tế=chuc, Dự đoán=chuo
+[✗] chuc/9.jpg: Thực tế=chuc, Dự đoán=chuo
+[✓] chuo/1.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/10.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/11.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/12.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/13.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/14.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/15.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/16.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/17.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/18.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/19.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/2.jpg: Thực tế=chuo, Dự đoán=chuo
+[✗] chuo/20.jpg: Thực tế=chuo, Dự đoán=chuc
+[✓] chuo/3.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/4.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/5.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuo/6.jpg: Thực tế=chuo, Dự đoán=chuo
+[✗] chuo/7.jpg: Thực tế=chuo, Dự đoán=chuy
+[✗] chuo/8.jpg: Thực tế=chuo, Dự đoán=chuy
+[✓] chuo/9.jpg: Thực tế=chuo, Dự đoán=chuo
+[✓] chuy/1.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/10.jpg: Thực tế=chuy, Dự đoán=chuy
+[✗] chuy/11.jpg: Thực tế=chuy, Dự đoán=chuo
+[✓] chuy/12.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/13.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/14.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/15.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/16.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/17.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/18.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/19.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/2.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/20.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/3.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/4.jpg: Thực tế=chuy, Dự đoán=chuy
+[✗] chuy/5.jpg: Thực tế=chuy, Dự đoán=chuc
+[✗] chuy/6.jpg: Thực tế=chuy, Dự đoán=chuo
+[✓] chuy/7.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/8.jpg: Thực tế=chuy, Dự đoán=chuy
+[✓] chuy/9.jpg: Thực tế=chuy, Dự đoán=chuy
+
+======================================================================
+MA TRẬN NHẦM LẪN:
+----------------------------------------------------------------------
+Thực tế\Dự đoán      chuc      chuo      chuy
+           chuc        14         5         1
+           chuo         1        17         2
+           chuy         1         2        17
